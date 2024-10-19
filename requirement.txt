@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-ollama
+selenium
+lxml
+html5lib
+python-dotenv
