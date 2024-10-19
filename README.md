@@ -56,6 +56,19 @@ Before you begin, ensure you have met the following requirements:
 
 8. The parsed results will be displayed on the page.
 
+
+![Screenshot (59)](https://github.com/user-attachments/assets/910045e1-b7cb-4c51-a0b0-47f4c5272f19)
+![Screenshot (65)](https://github.com/user-attachments/assets/5892fb39-0f2b-4196-a4d6-6ffb8a87d0d5)
+
+## Result
+![Screenshot (63)](https://github.com/user-attachments/assets/ccce0b77-6473-4ca8-8f8e-36c07778f473)
+![Screenshot (64)](https://github.com/user-attachments/assets/603909c2-147f-4995-9d19-38febe235bed)
+
+
+
+
+
+
 ## Project Structure
 
 - `main.py`: Contains the Streamlit UI and orchestrates the scraping and parsing processes.
