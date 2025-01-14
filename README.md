@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-web-scraper.git
+   git clone https://github.com/Joshua-Osar/ai-web-scraper.git
    cd ai-web-scraper
    ```
 
